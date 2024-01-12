@@ -1,0 +1,2 @@
+# FirstHarmonyDemo
+学习TypeScript基础语法，以及创建一个简单鸿蒙app项目
